@@ -12,5 +12,8 @@ In this project, I used Python to explore data related to bike share systems for
 - Washington.csv
 
 ### Credits
-Credit goes to https://github.com/patrickbloomingdale/Udacity-Project-Explore-US-Bikeshare-Data/blob/master/bikeshare.py as this helped me get an insight of the project.
+Credit goes to;
+- https://github.com/patrickbloomingdale/Udacity-Project-Explore-US-Bikeshare-Data/blob/master/bikeshare.py 
+- https://greenteapress.com/thinkpython/html/index.html
+as these helped me get an insight of the project.
 
