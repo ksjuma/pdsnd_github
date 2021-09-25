@@ -1,8 +1,8 @@
 ### Date created
 This project was created on Sunday, 19 September 2021.
 
-### Project Title
-Replace the Project Title
+### Project 2
+Bike Share Data Analysis
 
 ### Description
 In this project, I used Python to explore data related to bike share systems for three major cities in the United States including Chicago, New York and Washington. I imported data from csv files and answered descriptive statistics questions as was required.
